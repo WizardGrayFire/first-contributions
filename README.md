@@ -81,6 +81,7 @@
 <kbd>[<img title="Turkmen" alt="Turkmen language" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tm.svg" width="22">](translations/README.tm.md)</kbd>
 <kbd>[<img title="Ewe (TOGO)" alt="Ewe (TOGO)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/tg.svg" width="22">](translations/README.ewe.md)</kbd>
 <kbd>[<img title="አማርኛ" alt="አማርኛ" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
+<kbd>[<img title="toki pona" alt="toki pona" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Toki_pona.svg/130px-Toki_pona.svg.png" width="15">](translations/README.tok.md)</kbd>
 
 # First Contributions
 
